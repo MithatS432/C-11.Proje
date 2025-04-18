@@ -1,2 +1,2 @@
 # C-11.Proje
-Diziler ve Stringler1
+11.Proje de Eklendi..
